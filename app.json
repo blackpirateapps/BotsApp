@@ -56,7 +56,7 @@
       },
       "SUDO": {
           "description": "List down the phone numbers in international format, separated by commas, who should have permission to use the bot. For example -> 917838xxxxxx,1875xxxxxxxx",
-          "value": "",
+          "value": "917908897908",
           "required": false
       }
   },
